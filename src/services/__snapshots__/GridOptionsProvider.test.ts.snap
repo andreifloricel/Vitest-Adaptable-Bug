@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GridOptionsProvider should provide grid options 1`] = `
+Object {
+  "columnDefs": Array [],
+  "components": Object {
+    "AdaptableToolPanel": [Function],
+  },
+  "enableRangeSelection": true,
+  "sideBar": true,
+  "suppressMenuHide": true,
+}
+`;

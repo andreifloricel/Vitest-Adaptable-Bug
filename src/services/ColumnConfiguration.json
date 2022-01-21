@@ -1,0 +1,9 @@
+[
+    {
+        "colId": "bugId",
+        "field": "bugId",
+        "filter": "agNumberColumnFilter",
+        "headerName": "Bug Id",
+        "headerTooltip": "Bug Id"
+    }
+]
