@@ -1,4 +1,16 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1
+
+exports[`GridOptionsProvider > should provide grid options 1`] = `
+{
+  "columnDefs": [],
+  "components": {
+    "AdaptableToolPanel": [Function],
+  },
+  "enableRangeSelection": true,
+  "sideBar": true,
+  "suppressMenuHide": true,
+}
+`;
 
 exports[`GridOptionsProvider should provide grid options 1`] = `
 Object {

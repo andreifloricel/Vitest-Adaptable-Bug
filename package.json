@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@adaptabletools/adaptable-react-aggrid": "^10.0.3",
-    "@ag-grid-community/react": "^26.2.0",
-    "@ag-grid-enterprise/all-modules": "^26.2.1",
+    "@adaptabletools/adaptable-react-aggrid": "11.0.0-canary.3",
+    "@ag-grid-community/react": "26.2.0",
+    "@ag-grid-enterprise/all-modules": "26.2.0",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
